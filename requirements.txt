@@ -1,0 +1,5 @@
+ requests 
+ beautifulsoup4 
+ langchain_ollama
+ transformers 
+ streamlit
